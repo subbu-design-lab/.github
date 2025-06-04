@@ -1,6 +1,6 @@
-# 🧠 Subu Design Lab
+# 🧠 Design Lab
 
-Welcome to **Subu Design Lab** — a curated collection of low-level designs, system architecture patterns, and backend engineering practices built to sharpen design thinking and showcase scalable engineering.
+Welcome to **Design Lab** — a curated collection of low-level designs, system architecture patterns, and backend engineering practices built to sharpen design thinking and showcase scalable engineering.
 
 This repository hub is crafted with a focus on:
 
